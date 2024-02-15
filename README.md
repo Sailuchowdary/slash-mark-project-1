@@ -1,1 +1,4 @@
-# slash-mark-project-1
+-Hi, I’m @Sailuchowdary
+- I’m interested in Python, JavaScript, NodeJS, AI, ML, Data Science.
+- I’m currently a CSE-AI student at Parul University.
+-📫 How to reach me:https://www.linkedin.com/in/sailu-chowdary-1a7232245/recent-activity/all/
